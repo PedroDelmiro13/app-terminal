@@ -1,0 +1,3 @@
+[submodule "texto_magico"]
+	path = texto_magico
+	url = /workspaces/texto_magico
