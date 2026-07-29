@@ -35,4 +35,4 @@ git submodule add /workspaces/texto_magico texto_magico
 
 ## Biblioteca utilizada
 
-Repositório da biblioteca: https://github.com/PedroDelmiro13/texto_magico
+Repositório da biblioteca: https://github.com/ph95583faculdade-maker/Texto_magico
